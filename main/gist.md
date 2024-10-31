@@ -45,4 +45,4 @@ The curly brackets `{}` are what determine the quantity of characters that the r
 
 ## Author
 
-This gist was written by github user mcellis1[!https://gist.github.com/mcellis1]
+This gist was written by github user mcellis1[https://gist.github.com/mcellis1]
